@@ -4,7 +4,7 @@
     "paths": {
       "src/*": ["src/*"],
       "@components/*": ["src/components/*"],
-      "@atoms/*": ["src/"],
+      "@atoms/*": ["src/atoms/*"],
       "@molecules/*": ["src/molecules/*"],
       "@organisms/*": ["src/organisms/*"],
       "@templates/*": ["src/templates/*"],
@@ -13,7 +13,8 @@
       "@actions/*": ["src/actions/*"],
       "@reducers/*": ["src/reducers/*"],
       "@api/*": ["src/api/*"],
-      "@interfaces/*": ["src/interfaces/*"]
+      "@interfaces/*": ["src/interfaces/*"],
+      "@pages/*": ["src/pages/*"]
     }
   }
 }
