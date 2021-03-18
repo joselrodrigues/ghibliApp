@@ -8,7 +8,7 @@
       "@molecules/*": ["src/molecules/*"],
       "@organisms/*": ["src/organisms/*"],
       "@templates/*": ["src/templates/*"],
-      "@config/*":  ["src/config/*"],
+      "@config/*": ["src/config/*"],
       "@store/*": ["src/store/*"],
       "@actions/*": ["src/actions/*"],
       "@reducers/*": ["src/reducers/*"],

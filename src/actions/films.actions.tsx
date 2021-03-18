@@ -1,6 +1,6 @@
 import ghibliAPI from "@api/index";
 import { Dispatch } from "@interfaces/index";
-import {ALL_FILMS} from "@actions/constants";
+import { ALL_FILMS } from "@actions/constants";
 
 /**
  * @name filmsAction
